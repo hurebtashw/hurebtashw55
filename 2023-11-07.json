@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Carlson",
+  "age": 18,
+  "address": {
+    "street": "Ulubik Pike",
+    "city": "Daafoil",
+    "state": "OR",
+    "zip": "28335"
+  },
+  "contact": {
+    "phone": "(230) 967-7942",
+    "servicePhone": "800254933"
+  },
+  "birthday": "2005-03-22T06:30:50.970Z",
+  "ip": "123.78.243.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovavu seheh razo hofket hifa razi ifaf ukvudet vimorjew mulguot neno tonoc. Di weralimo neca cinojap ane dur gec zigewu vome voanisak epo hu pan tevpoilu poj dal. Uvuvavli lumoteg odajif ta wecicti tocjado judva we vevpefgin abi gisijper we. Bib kuva ga hu zefseov juclek lifetbap hudja hajamfo ahso oc rib rubjo pubuwfat naco.",
+    "bio": "Ula ifkol etufog omsakwi zos zuviz veb bav tote ohadibu kikvusa une bobjopeh. Dobuw giphajad uvu gek gape atju socmojop ol wakneknit inirak zi la ju anvopgo vuluupa di cepep. Upvu kovem gejoh sahkentit fiwifo zivbik kolcenog katja cen egwolif kobapzib ro ra."
+  },
+  "apiKey": "ed409b1de2b9598135ea75e172d9e8d5560853bdb88ca52c940aa42f9e6ee917",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
