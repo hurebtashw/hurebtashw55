@@ -1,0 +1,26 @@
+{
+  "name": "Todd Morton",
+  "age": 24,
+  "address": {
+    "street": "Utpo Park",
+    "city": "Zuidabaz",
+    "state": "ND",
+    "zip": "87416"
+  },
+  "contact": {
+    "phone": "(929) 483-7708",
+    "servicePhone": "800828834"
+  },
+  "birthday": "2006-12-25T10:38:19.476Z",
+  "ip": "96.17.217.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Rep nac fu nandofmo ma adu nar wijewor mifarluw egu fe cipiphu tetpe idwig. Neza joman pasace iznur zaudne catajit borza vemdi urhusi elate cehu vuc bo fegcorum dogaeza vuwig. Ra kupu lijbig eze ciroc im dihkup kispehoz fawzej wikgev iteusihe ose wiw ralfe belih.",
+    "bio": "Uc uvdum tud beditef fafotku olamuchu injacsar zatipeb efcolo ogawrus falifca gomcuzeb kuk cez ahe. Cova im ziicerun juh decun foha wot urzeceg rukuuj vih iriajro ate upkakiw ibciw jingohini cumu vu uh. Sakem alapeg punanfu pohmi siwna aflaho rebgi de atwidmiz epien fecvodba lubat om gejzijil ecgo zepuwawoh kodbir. Jo oziracceb hogahiku zi cohwopnu zacbojamo bekdib rogugnoh ne fin dasnedsa didtu hasdeeki oci koejiv. Ne tus veus wuaki ogisi icoha ifigupdi zos refmo korwefelu dubo povigaowu kil dopih goji ig fesih iptifoc. Tanahmu rat madcek roccik lazarove hathawne kopedeg li wu mos ece tu kah jiccel lo gocgekpa zu. Colofor gegiju ignaz vetparu pavahbu ireijco umfobja sulub ep pagno odumen se jekivbuz serru dala siapizoh ucuope fu."
+  },
+  "apiKey": "3d64a78c59ec279793f0ba2d75452a7347e0fc625bb2c56894c4f7a0dde7bcf4",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
