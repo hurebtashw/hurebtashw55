@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Weber",
+  "age": 30,
+  "address": {
+    "street": "Bosu Glen",
+    "city": "Libhevu",
+    "state": "DC",
+    "zip": "94995"
+  },
+  "contact": {
+    "phone": "(385) 866-2340",
+    "servicePhone": "800544172"
+  },
+  "birthday": "1984-04-10T05:17:02.562Z",
+  "ip": "172.126.66.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Cibemije ze seg ivo soj sadecic ob uteno kodeve zufwin won hofmepuv hu. Ti majogih pawge ronce nejez ozozazo uj tapja fub metij zucipi jovpepa hakoho geluw asuhawgid fieta. Ugpoljop vezkenac lol toh sitnu urhofta kehjagol nuzifu habbo hi zo gufda hit.",
+    "bio": "Ge bo bubmowo ot vu tohci ri tuedisiw ir ni antu ferfiwel. Ebeagu ukila onikgum si kiwme mubcijruw tanohhar cupimnoc dabetva jabed ogvuteg numro igji gif waw sekvadmag ikuzesif. Zevo wo lorir teegrum ureiweawe rekmenpuk cigiwli iveev pipipug ojen bih vu livov cubom. Hu tena bum hah dufuwilic neemzi cupuwuwu muvva zomiko liam wecfug rigic imukuwo nurfeja sug. Zi oz patpi mofacdog hu fifro mese fucedmih ba visnatuk demal waife lasju hodomiic teg pimuwge pulcabcok. Ke ceninga wapime lo se wusfob aculi kotus hekki leoska abegiwew do zev wicro vokbefa wem."
+  },
+  "apiKey": "dc40cc3e9e88f586e7304c1dd388ffa6e552dc90bc2ec8ce252811935629156f",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
