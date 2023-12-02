@@ -1,0 +1,26 @@
+{
+  "name": "Luke Weber",
+  "age": 60,
+  "address": {
+    "street": "Suna Way",
+    "city": "Tigwosla",
+    "state": "IL",
+    "zip": "53428"
+  },
+  "contact": {
+    "phone": "(779) 908-3691",
+    "servicePhone": "800228119"
+  },
+  "birthday": "2004-03-14T10:05:38.239Z",
+  "ip": "168.94.233.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Daj vu raukeiv hawcopruh cusopfo cisaf ko vaksul oteeb efe wenurmeh ab fob wimug lidboh. Icpod afakedkaf efirokluz woki ulre sarreci casvaeni jofni wosod se lurenuid ajwewzo tice wo isavo wumsavur sukguzfaz wit. Us jubve ruv mubdu huoldar fov lu mapurun te uce utan huowci sew so pin ve. Tetdanor ekgot piske fol omezagul fowki doz maom ed no me secmogis.",
+    "bio": "Macwov ro uzaefe acimo hufut enuuf su omeifotu kac mit deprafihe ehumoup cehsej kag. Irci ejwad sofse ugviha baf puifaja wizsi le igiope wabmu edogil afo. Kin mazubile wivke ugoriice puhavuuv ohive marureb zebpac ala omsi imiiv cuf tup gukudon irilam iv oroov zovuc. Ujawunhu onmuttal wuatfe zo fe hov richa wofo moj geri mupbu ire fiftog wifale jaspo ewa ked uhokunhal. Voerawuw hinoesu migo jeva bi of ka nitef cege uhasibe safbe fiwo vujtaj zeccu meuw tepleba."
+  },
+  "apiKey": "ac4f8d9675f6be715fce375d0b62562bd71bb88ad2032151d711edd0604e264f",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
