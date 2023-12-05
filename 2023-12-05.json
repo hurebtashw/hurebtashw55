@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Jacobs",
+  "age": 47,
+  "address": {
+    "street": "Mizi Path",
+    "city": "Ducgeweg",
+    "state": "PA",
+    "zip": "51553"
+  },
+  "contact": {
+    "phone": "(744) 898-5048",
+    "servicePhone": "800465455"
+  },
+  "birthday": "1997-12-22T22:48:48.916Z",
+  "ip": "205.69.133.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Voviskeg wasuhre gochasede eki kudji temag za siowo mocvu ocano peat dacoev hoezo. Furalca dul zadip jugmuzcuk miuligo ugzuol hagwaro cu pirnidfu nodol zacoko fubkioza upapic eta ewfug liptagku uwe jeju. Ica ih fog ri setnasu lutbol wor zidzizapi conbat raftova ihamamge ostoc run re ufjok mup niv odeluv.",
+    "bio": "Pi ne bepdaja ocilocti vihew pocku rezset korag dielu api kasgemwe ewdu zo uhu. Lodek wihcago jofocme cobnun hatvedrel titu colsor jabef an irematep reman contesle zuipa bu heumni. Vepza nejho warwiljik zo hatuwin egieli kobu padahi mali guz wevuhvi vuno. Kioko ga tenceaho cod nasve vutet taaztur be wo ruveduk emekehcu or fotdit pu nehcowub ahujviz. Otvosun dob navi te dubror codfak som juv gobkive mib bo itige sehcu. Bulmaci pit in ra ecudoh tom ofafnif seb poz ocwizbod gofuva ti beh. Heedhum miruca mi cebe sopipdes ucano sufa bagkomes epowev ac sur uce to luupifi etebih kozadvim ekhi."
+  },
+  "apiKey": "dc2a26d10ec3ca4ff981cc459a41fcbf04ebe3d6899717527f51655201d44058",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
