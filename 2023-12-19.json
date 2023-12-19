@@ -1,0 +1,26 @@
+{
+  "name": "Lois Mills",
+  "age": 53,
+  "address": {
+    "street": "Tennub Heights",
+    "city": "Tukamu",
+    "state": "LA",
+    "zip": "52625"
+  },
+  "contact": {
+    "phone": "(254) 985-1131",
+    "servicePhone": "800245395"
+  },
+  "birthday": "1984-02-06T04:45:54.098Z",
+  "ip": "145.151.14.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Bumrit somac bu edu jan ki cak se zudesa piwrais wouko te banbohip. Heupe cuj debwava buufmos ikamueze par okbazu do ki jenvabote ledilim mow godcil. Nuzdej nir igatinmop zi wili copemi ju usiigdon urtone he wo ulajob bu vasso ocviisu. Maz sus leluzu pe akokiv azo donup je si nunsu curjeg nu toew bim. Sagbar vofdoc ovre me fanmecbew kedhega tuzi tukib hizjoha egmev denawec fahole huwos asovi. Dagfep sah tijjagcik jovol jit epmow noiz liffesu ahahowej puhivuz cif guw dakbob luniji vofonco puape. Boh me oni pefgo hibnub cu huronbot muumrek haco vewuop opabzol nafas jolzakna hofitfoh.",
+    "bio": "Mu kuano momweon bacvezbe ti gitud hiku ewivaek oj wuep jektebgud wewminil mowwiwsel sel nu itemuab uc mo. Lu kul husvadtop diano no aze kavbal boemi ge raja rojko tuhdubad maz duc jug mallus. Fuat ej vopa mijpeh tebkucmi vul ewze osso jowen jij ro epa vikid sargoc pumuhulun ubeusu tosupda."
+  },
+  "apiKey": "3e676233c0055d75bafbb25ab4310f4f53f9a41df705ad1d98851f7c624927a8",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
