@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Woods",
+  "age": 53,
+  "address": {
+    "street": "Gagif Square",
+    "city": "Kujdumbuj",
+    "state": "KS",
+    "zip": "08001"
+  },
+  "contact": {
+    "phone": "(586) 778-8990",
+    "servicePhone": "800628627"
+  },
+  "birthday": "1961-01-15T03:52:29.459Z",
+  "ip": "245.247.150.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Dagaz furo az futusuduz petbi uz keltedef mi si atoanu aram fuh woh ahmo bep. Tup live ewa ecipakog goikazid ivgiv sew naru porov uma cajasujuz dibag. Kodtezvi rut ebar sozinkuv oreif jihetgal low et ramuci edu hahlaf daka touv ajouh. Jaaka dij ciiwi ci movmedfuv coji ru hir fuwagu bupujni ubholum telop jammuc cihute verbouc nulokoko gajewwo kenpido. Goni ipu bekohol hanwupuf fo sevcedic jekelico hopdislup voj cigvusus use beshu. Umu wop im ketce eso jomtek asahuvofo babanef zas fujah fonzeckor vud uf pesfu.",
+    "bio": "Su dup tegtimaf dazros jum boragto pousa piger ow gefavli puco loikafap. Lozitiw akaleli lug digtiw nizriscu catbod jukpajas giomocoz vogedlug de tum jibhezwad. Gagoc comanu nooge kikim liz ma doromlo rav uwahotum rezawo esjovaj aw mafuet iboplo cu hofomej. Zunim risaje fejate se lesi bipipla muvos bo picu lusu emsowfu finit lu ve eb enail siza isizo."
+  },
+  "apiKey": "0bcec0b6d43466f06ce47c039148649a8540409aedfb6bf20999ca1e5bc4194e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
