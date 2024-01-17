@@ -1,0 +1,26 @@
+{
+  "name": "Laura Wagner",
+  "age": 28,
+  "address": {
+    "street": "Cesto Court",
+    "city": "Medurca",
+    "state": "CT",
+    "zip": "14410"
+  },
+  "contact": {
+    "phone": "(558) 627-9880",
+    "servicePhone": "800323482"
+  },
+  "birthday": "1990-10-10T08:48:48.025Z",
+  "ip": "52.165.101.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Jekozniz kat mo vo ziebizil fumhe jihzob puretmuz gute bebas mevfazhu pirok dohiton ahwedes za. Ot islodi okolo roh fe tatabuso mihum zecta ase bibnokcu nij iho. Hiihnof nohjeme ukujuaw cekeb zogwa puepo ugwuof belfi fobula medabol monwofbuw jo jov agzo. Muce se seruru zodi geug hu ufanehuf ta kirmub vikajgul tawef gege bumjevi mo cof ani hobizve ifipes. Tadkufkin fe ekidin gucoka riluku volollo ze beof se odueffo dajize gejjot kodpi. Murkum benu viceta av kacehuce tusobet zuv ujgiba zi hul lipa perbo ke liblu nifa movjiz naev reltannah.",
+    "bio": "Kudis tohfeita joat soza pihdac gelkug savhi injan uwo cihzoffar egala wilru libdeul pu tuzput jargozi tegaapa. Ojacew ri ipserref te cos epueperic usifo mare luf udogit kobif ow nezakob. Acso himtevwu ahuur envow bun worbu ku tiv duv puufdu bogteha unfoha ukwe laere ope nelaut. Wafovbap gohfo ehe wogdenup ej mirit oguithe ec etefadu ga jovilipa icise."
+  },
+  "apiKey": "fb10dcc16cd4854aca586f1054e0039fc88feb72ba949e540efbcbf7e92cda28",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
