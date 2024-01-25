@@ -1,0 +1,26 @@
+{
+  "name": "Cory Valdez",
+  "age": 36,
+  "address": {
+    "street": "Nukot Avenue",
+    "city": "Cohvaci",
+    "state": "RI",
+    "zip": "41873"
+  },
+  "contact": {
+    "phone": "(655) 943-4335",
+    "servicePhone": "800357561"
+  },
+  "birthday": "1970-12-26T16:15:35.801Z",
+  "ip": "47.234.238.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma am boodiku errif dine gowovo oki foka pitu dozwuhil vorupwog ebemin dudrete. Sekridna bejlanka cus re ukoegves resi ubos ragowni riz as tu pelmana gitoduc di wussamad. Nuc weujefo samdan ta neaza nozudulu urrot rekfab or heg ofvehsi uvoviju ojoah kuhteza mosew lizacakob leiba.",
+    "bio": "Fuufowa wu alama su kaduazo ritaepo wagas rejjonwam moloc efmebso reazozo powo copsitaci hudomdoh gegototo. Tin roeb unte turvuf govhil vum teguvo aciwi gemhem rametpu vedapo rubugde uno juj va. Dop faeg luvehruw lim pot pif jufti dubovhi cu loujoro welu gifkik capiv."
+  },
+  "apiKey": "52a17f588fe8c7eaa5f43ae5bbb0c0147a4a9eb666603b5d2690e2b09a7c697e",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
