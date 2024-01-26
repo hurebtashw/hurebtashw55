@@ -1,0 +1,26 @@
+{
+  "name": "Sara Rhodes",
+  "age": 65,
+  "address": {
+    "street": "Rase Path",
+    "city": "Asvevis",
+    "state": "VT",
+    "zip": "76195"
+  },
+  "contact": {
+    "phone": "(516) 501-3009",
+    "servicePhone": "800588464"
+  },
+  "birthday": "1995-02-24T02:19:26.139Z",
+  "ip": "173.97.145.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Oluva hakobeh so kuscobmuv ewa ruvvoto meze vilsojduk tauju ru ilo apojufe. Som gin obgijlu anumo ufezwo piahmi ubba idub wenjabwuc rek hokej dival pallin. Esa koit ru mib gujfespi liuf zav lugaki varicuuge bes ikuvuloh bup ucoeci ewle ul don ruj povoabu. Nikanuk rinbuv ewjed wiploena wekalaj il casev vis liejobo la ippuwmos we. Gennuzera zadva joivmi amave lic kura eh tepelun do ah di lar gofto kidsa ogihez muog.",
+    "bio": "Felero cigzive cegpecef kam hulip po hu defki agipib caweh kaf dimfubko cilgi viop nujkeiji fi dojohi adrugpo. Sepcizwe obas usi sefdergi otakam harda hukizu ocasep af fuj ehoiluwed zosbe puridop gin wibli epu. Lu koovona rafica baawi kasolil uwo wit samuple vih kisfojgo hargica kek ha. Megfanro rik rijsofe loifpok jiitoel afiha lojummum gifror baacakos ba ji irne zaf ruiz. Kuttu lak fidsabnam obhem otfifji jic wom zisehhas cogguk sic gifowta ijegi puvosag jo senfanwo lefnargop zum zancob."
+  },
+  "apiKey": "6c45f1d76074a3b3660f099d19c42543658a0ea01266bbb8915977b7d3e1d79b",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
