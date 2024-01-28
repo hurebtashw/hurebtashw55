@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Matthews",
+  "age": 44,
+  "address": {
+    "street": "Azgom Manor",
+    "city": "Elketsaz",
+    "state": "IN",
+    "zip": "04822"
+  },
+  "contact": {
+    "phone": "(473) 854-9891",
+    "servicePhone": "800236271"
+  },
+  "birthday": "1999-02-02T15:21:55.860Z",
+  "ip": "75.128.14.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Tagaldor et bam zovmome tuwit zebrucvon gurkeco govavdi ikauz upkij itu raopu fit cu ifosa. Kahti elgakaj wibas ro ho lijmi had jiha ver olajozson garatcu zat filipaj cahe tomic az bufozu igcoh. Refut nurebag gargi eccun tepora iriteptir viov pimev hozrec ibpur se sa ravgalaj bizuvo lajaf bolkem kikbog jifhe. Pure bi newawano loeheiv bi eba sumkip ka semgupil fudac fih coufi igepig afavuz. Nosga idenelusu pejhaboc ablur go pe cuako cufuh fog sibun rimatjo kutamso najid ciz fuwgo. Nilbeawu hezpu pi ov muda anu soknoku eva bu hat se pavevima zifumge busouw obuhu.",
+    "bio": "Ov bire lemmuk sat ekosma cavwakno arucu fofi mat jaccuf nomcoj vezsi faipdi ku tubpo ditolu. Luh hifpeb jum voclomwig wem sebzac hokfeji uzogaral vehkuloni ajecifa mipvauh dorotwiv osjoti juvez rufgeusa nalver nestidi. Et ga lefubi aripah noractiv zamuin uchouf eta letuj wogdo kango cow keho ib aruzeh."
+  },
+  "apiKey": "8aabd5ce0eed2084de0ed9726daef505c6a5b6128c994d7a3ec7446df859d22c",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
