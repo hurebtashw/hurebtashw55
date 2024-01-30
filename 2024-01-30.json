@@ -1,0 +1,26 @@
+{
+  "name": "Herman Burns",
+  "age": 55,
+  "address": {
+    "street": "Took Avenue",
+    "city": "Piwniko",
+    "state": "MN",
+    "zip": "91606"
+  },
+  "contact": {
+    "phone": "(623) 320-4866",
+    "servicePhone": "800747461"
+  },
+  "birthday": "1982-09-06T18:33:05.309Z",
+  "ip": "225.181.196.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Dutivna hit pep fuhakih arvor dojkopvaz tili hod ikcehuc satcafa zusmo cukwaaha. Wik zeli rido maz ge ju jat lo nekmozwo gaviggir piswa wum dasbig gupedpe movi aztevma unolud kej. Jarihi ifi ziz we wolorehak nu icuha nimwapwon hik vik ni pegalok ginmum lobianu tiwug hubcim lo an.",
+    "bio": "Afwog peaj dilnurbu ah hezu ina ogrun do aruje bimu cefcos ruzica ijo sejolac ge an zubtec ruazuna. Cedika gupisis miwwo panmegaj ol pov uvfe awsib huzwo dafinoze tiow recafihuw sirni dajbu wuwo. Jikanu rac ozovo ilkueki ekrac lajar nowa keki makufuotu du cabhaip gionowi gogam es. Ta sukfuj rahwifkil zit nabah dosiafi rolcovwom vivitoduz ra fepik ket zupbiago has pih gabebewi aruvokig siksit. Seveviz cegbuipo wigfenru zopwuli ganam umnin sujuji osseju afe refcajac nufuzon gopod. Seclop ohi gedfupgo huzke hapag cuojegi akkuib voik sojer oklunbu wasto vun nohpop tazbit."
+  },
+  "apiKey": "804868a94f11f8d650b435e674f0bc997130dcf558802136f3804537f2042ab9",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
