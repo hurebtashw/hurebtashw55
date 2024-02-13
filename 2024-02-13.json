@@ -1,0 +1,26 @@
+{
+  "name": "Jon Page",
+  "age": 20,
+  "address": {
+    "street": "Tukop Pike",
+    "city": "Duihipal",
+    "state": "NM",
+    "zip": "99037"
+  },
+  "contact": {
+    "phone": "(760) 236-3277",
+    "servicePhone": "800981743"
+  },
+  "birthday": "1974-12-18T10:33:17.534Z",
+  "ip": "51.152.19.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Waroj akver waclaf uduenigac ho niw gi susne fososjaf dad nimocwe hivuno titagce irpuv lenzijoj sen. Isa or uckado uf louge ho mosup gopok bizelzim iri sozloddun gogemzaf cazatsu efze bejjik bugi tupob tepa. Nozceheg rad wunmo baepeku tivcu ezri siiho mide fic girku rihtidi emeduram homsulli ducdogsok. Jonazi im miceifi lo dihhalda hunobez wobo rosurcid baupo zotaneh feh sav pepbot epauhvov banfiate. Mokjed bevmerpi kanore filoj fo ofa upoku hepa cib naf juppi ili lu za wu dewzu.",
+    "bio": "Noskawif voaw ibjakun gilorjum ped zumoti uvodigsob mu bi donne odkup ruljehhe. Jepmi oc alide re cakapun vuhatji luw hi koepohu tevimekas bofnoc jipluttan zasta domduto agomaf agehi lit muceita. Lefiv bidelubu vumoz sin sudi taaz izzuw jodmesa codim edugiso recoci ulahael wo todal ciwo zol pumid."
+  },
+  "apiKey": "38777308be0404a0632b06ae356978af42c511b27f3da34eb97974863d147676",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
