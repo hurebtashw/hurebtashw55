@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Moss",
+  "age": 51,
+  "address": {
+    "street": "Ecaoj Park",
+    "city": "Tovucbog",
+    "state": "MT",
+    "zip": "59765"
+  },
+  "contact": {
+    "phone": "(488) 255-2224",
+    "servicePhone": "800545458"
+  },
+  "birthday": "1983-12-30T02:21:58.830Z",
+  "ip": "204.243.232.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Ez fav mukcon izowu cebrid oj ofebi giwteb tikgot defu tor epsi nopripaj ifziwu oc fo ujivu. Omzaanu lawiz avbe niza ba pa ewiolsoh ke zimjufod vo vawicep jurup huwe cu idorol hurjeofo. Etciw dek mecomzu ugloh vuj rulonjok zahnojor poclecutu mi olo fu mu ahucoam jeago papi wezguvoc futjojo vunzizem.",
+    "bio": "Gonci biimalo omfohnur lecame tu bopaslim ajekujhak joreg pomecvo pa ha mez pa we coj. Totosad ot murepov piecfow on ru ireti atiibecog kifto minvicko ib sog vahnor puf pup bik muwamje seeheuro. Akafi zedno gozbuv dofa refbeviw kakizajos ewper caslo ajserow tuvav katboij menuew rimbe fibdeki foercu diw fivaweru gekhuup."
+  },
+  "apiKey": "921508cf8d2c06d910134cc54710060aa9e4e51dd1c9fa6d3e2bcd67a85e7b1c",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
