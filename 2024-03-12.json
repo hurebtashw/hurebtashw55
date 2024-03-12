@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Powers",
+  "age": 36,
+  "address": {
+    "street": "Histu Pike",
+    "city": "Fonuwiv",
+    "state": "FL",
+    "zip": "47099"
+  },
+  "contact": {
+    "phone": "(263) 842-6291",
+    "servicePhone": "800433918"
+  },
+  "birthday": "1995-10-30T08:53:04.136Z",
+  "ip": "183.149.231.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Jislejag juwbeuma masa sonu pahvokah kum kicdeoha mu digi du wirbeb fi ol tuihho. Bifibbo izekardul gunohef pampiltis ba ani nik titba ho vojur pocca cu. Mowcuk jeboteb zutkah fihabvez ho be baktodbi hecno mujo hobjotog vu honib leufi rihvedi. Miza morce gefwu dov juraku si gujle wodnongi nohtuklig uwsoari jeceze serdilal woha oda.",
+    "bio": "Alze jijoca tiw dadredat kuzapam ebdoze ise bojana re sej nav wacad kijwut labwabmok pasevti. Ja ipjev bu aljobap ku tidovci tewacci pos to puk ma actoaja in az. Be so goejo juwcisko moohlud idu kistica ura li kaznivno ta agerozeh banajo."
+  },
+  "apiKey": "ddf5da3ae402a8968e0ddf23fd38434cce70d983c7608a3d37b7a106608686a5",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
