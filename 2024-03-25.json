@@ -1,0 +1,26 @@
+{
+  "name": "Alfred French",
+  "age": 50,
+  "address": {
+    "street": "Kela Loop",
+    "city": "Cuwbatoru",
+    "state": "CO",
+    "zip": "88963"
+  },
+  "contact": {
+    "phone": "(716) 784-6773",
+    "servicePhone": "800728629"
+  },
+  "birthday": "1983-04-07T18:33:29.236Z",
+  "ip": "252.33.88.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Wog ti tagahril er bubirag temces kal pepupi utoze derji zuebo gekiki vufhis ja cu ve. Mofocsu lip dokig se kap ajolaz ba ciz lulibub si suk iv. Murvongo ra edifu komfahki ze oflocic gomu kujwu sebvu fe wefego kunfo bi nijatgi.",
+    "bio": "Vegtac fuihu en cerjukha wo livcacec wo ho am nilokwu da hotzer. Nen ki jup lalkef hotpehem ve efa gupbomun zepubejo feodfe kirin rukiwih du nopla weblezup cop. Kuj horadu coaci pa vi ima ko ruug wi udeama kegosoibi leokiri na obimozep kej ruh. Nuhfi gikov su vuwvarje pudluum ne fewnopi ebukubad nu tofwuzi ehahoun omza atci ulivanpen. Lidci tokto mo dodmo gotge devpa zidifa kuwir ma holo le wa."
+  },
+  "apiKey": "1faf5c74caf569290792b4e20101b30523f383c4f4ee78aad67ad37f15dad390",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
