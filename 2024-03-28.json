@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Gregory",
+  "age": 51,
+  "address": {
+    "street": "Hufsed Street",
+    "city": "Ubkerdik",
+    "state": "AK",
+    "zip": "58926"
+  },
+  "contact": {
+    "phone": "(816) 946-3691",
+    "servicePhone": "800322279"
+  },
+  "birthday": "1966-05-02T13:40:17.706Z",
+  "ip": "237.13.161.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Wevirko cap husar zoh kuedcus halcuh zej wisu disa lu na ibget kej kuh pujo kuguza. Kejob bi juopwow rizeltak fuw hiku langanve kuaje wak sadeb luffuuj jav owtag. Zip fa ilaj zi nef ilnahut ubakaub cuvju rome ofcede re zecle tewu vidjec dodub luhedete.",
+    "bio": "Sa marih wehagkol tagooto bekvub tigwabvol wuvigcu toh bizerka igina vodkitot he muljupdi. Evguc giv vetwuhum cofvaron ipuhek siptuse sub or seri fozilici guah ag haspetek. Icni ocizehdu ev coszereb wazbu raregije sec je goane cof nocodpo owlo lekap."
+  },
+  "apiKey": "eb22eb1bf7aab60ec2f57bf19b04ef89cd4538348cc51986b54868528cb36384",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
