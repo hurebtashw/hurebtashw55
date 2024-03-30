@@ -1,0 +1,26 @@
+{
+  "name": "Devin Butler",
+  "age": 42,
+  "address": {
+    "street": "Ensus Turnpike",
+    "city": "Busezwa",
+    "state": "OR",
+    "zip": "97707"
+  },
+  "contact": {
+    "phone": "(561) 247-7741",
+    "servicePhone": "800144147"
+  },
+  "birthday": "1976-07-31T07:32:12.778Z",
+  "ip": "43.88.206.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Umhun duv galzu ce ezi kuus budugsov zit vabuwe jip tirsi cer fujbe biugzog bejkog ekpofuje. Na ceh sicte wa ba se la vi ama waujvug na esasu uja hah julbulzi ne rerola sina. Ruzu fitagep rek gilgebnu peeje wecalof tanadluv atiboho kahorpuz fe nepin ikmu fet. Buadu bagpam nocjemi amiudi solapla fonjoni paof usnocu jojma aruju ubo toczi gacnumi kuteve pudoban pedmo vinzelod.",
+    "bio": "Kabbajiv opimu pavo neripimo gowkiwa rezif utu ko gig na cu dabanu matu. Mel ciato tivka lun do gar behviivu him esecuf fowcudac vuravpog zokewvaj voc mimni sen. Hahuwe sekzavme wob zofab imaapeeba pab tofu jaw ficac ga gudafrub ifa wuguw kiluzu urfab."
+  },
+  "apiKey": "03c61c05a33d232b80bea3d1c411c8c2ca583b6abadf492228f0078ca2b56a93",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
