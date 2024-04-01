@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Fox",
+  "age": 28,
+  "address": {
+    "street": "Hudde Highway",
+    "city": "Fibide",
+    "state": "CA",
+    "zip": "39387"
+  },
+  "contact": {
+    "phone": "(205) 915-5045",
+    "servicePhone": "800451493"
+  },
+  "birthday": "1997-12-02T01:27:27.691Z",
+  "ip": "199.1.39.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro tifzowaj tugluun efzejpe aljom fahiamo ha iwobe jovrelo fa foikbe hasjij je. Fak liflor wal bidus vab dakivwez ji duvocor zedefifa sakwarul ahgofim minup demum nirjuda mubruv. Oc bot ig vuoki ke vippesvaj sahat kidlic he mucniv vakhima popiubu.",
+    "bio": "Pugjelvu teer ge kem acu fahgurga na tojpude bewi ricbimnit pik wawso gugcihza het zig sawgaji doczaj nu. Caguzas ceur eva riipiude noijta wapgarri zepakpoz em dud lezuz gibave hobza pafbuig pohradhok udi. Ju nen viwci mat miah ufegu demub fe cekjed nufur nijuwza je pe fihi vadumno wafse."
+  },
+  "apiKey": "9d36d6b838d5ce61c6982d1819a39105f702bf1bb3eb5687b2436ce2508a9a29",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
